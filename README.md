@@ -14,3 +14,7 @@ Project 3: Comparing Classifiers
 This project focuses on comparing the performance of several machine learning classifiers - Logistic Regression, K-Nearest Neighbors (KNN) Decision Tree, and Support Vector Machine (SVM) - on a dataset from a Portuguese banking institution. The dataset contains information on client interactions across multiple marketing campaigns, and the goal is to predict whether a client will subscribe to a term deposit. 
 
 The project involves data processing, feature engineering, hyperparameter tuning using GridSearchCV and RandomizedSearchCV, and evaluating the models based on accuracy and other metrics. 
+
+Capstone Project: Stock Sector Performance Prediction Based on Economic Indicators
+
+This project analyzes the relationship between economic conditions and the performance of three stock market sectors: Technology (XLK), Healthcare (XLV), and Energy (XLE). Using a combination of classification techniques, Random Forest models were applied to predict whether the sectors' prices would go up or down based on economic indicators such as GDP, interest rates, inflation, and unemployment. The results showed moderate accuracy, suggesting that additional features or model tuning may be necessary to improve prediction reliability. 
