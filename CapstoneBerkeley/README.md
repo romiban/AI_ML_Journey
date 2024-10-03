@@ -1,5 +1,7 @@
 ## Stock Sector Performance Prediction Using Economic Indicators
 
+**Author: Romi Ban**
+
 
 ### Project Overview
 
